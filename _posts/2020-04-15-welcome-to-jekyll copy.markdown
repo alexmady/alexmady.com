@@ -17,4 +17,4 @@ What is gradient descent and how is it useful for performing a linear regression
 
 What is the normal equation?
 
-
+$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
